@@ -19,9 +19,6 @@ We use this GitHub to share code and other resources used for illuminating the s
 
 <a href="url"><img src="https://images.squarespace-cdn.com/content/v1/5560c1dfe4b048b2365b3836/680f970b-b5bf-4f36-92df-bea543c121c5/DarenCard_Headshot.jpg" alt="Daren Card" align="left" height="25%" width="25%" ></a>
 
-<br clear="left"/>
-<br clear="left"/>
-
 Daren Card, Ph.D.
 
 Ph.D., Quantitative Biology, University of Texas, Arlington
@@ -35,9 +32,6 @@ B.S., Conservation Biology, SUNY College of Environmental Science and Forestry (
 
 <a href="url"><img src="https://images.squarespace-cdn.com/content/v1/5560c1dfe4b048b2365b3836/a7606d56-9c49-4090-a623-9dc93fe03c6d/Alex_Headshot.jpg" alt="Alex Ying" align="left" height="25%" width="25%" ></a>
 
-<br clear="left"/>
-<br clear="left"/>
-
 Alex Ying
 
 B.S., Biomedical Engineering - Minor in History
@@ -48,9 +42,6 @@ Columbia University
 <br clear="left"/>
 
 <a href="url"><img src="https://images.squarespace-cdn.com/content/v1/5560c1dfe4b048b2365b3836/cdfc3451-f57f-4f0a-95a9-80e7cd04e2f2/Briley_Headshot.jpg" alt="Briley Park" align="left" height="25%" width="25%" ></a>
-
-<br clear="left"/>
-<br clear="left"/>
 
 Briley Park
 
